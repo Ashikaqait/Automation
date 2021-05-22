@@ -1,5 +1,7 @@
-Automation Assignment - Selenium Automation
-System Requirement:
+**Automation Assignment - Selenium Automation
+System Requirement:**
+
+
 JDK 1.8 or above
 Maven 3.1 or above
 Intellij or IDE of choice in case there is need to update the script. (optional)
@@ -13,8 +15,8 @@ For execution of scripts on Mobile you need Real android device with Debugging m
 Config1.properties file should be updated with device data.
 APK file is place at src>test>resources>Apps , Take absolute path and add in Config1.properties file.
 
-Execution Steps
-Please follow the instructions to execute the tests on local:
+**Execution Steps
+Please follow the instructions to execute the tests on local:**
 
 Checkout the code from github
 Open terminal and navigate to the checkout directory
