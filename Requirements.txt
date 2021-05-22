@@ -1,0 +1,9 @@
+Automation Assignment - Selenium Automation
+System Requirement:
+JDK 1.8 or above
+Maven 3.1 or above
+Intellij or IDE of choice in case there is need to update the script. (optional)
+Android Studio with ANDROID_HOME variable and path setting for platform-tools, build-tools, tools.
+Appium desktop client.
+Chromedriver path setting
+Android real device with debugging On/ emulator
